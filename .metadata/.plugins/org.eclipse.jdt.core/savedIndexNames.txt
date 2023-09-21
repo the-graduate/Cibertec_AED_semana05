@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\OSCAR\Documents\Introducción a la Algoritmia\AED_Semana_05_Lab\.metadata\.plugins\org.eclipse.jdt.core
+4110851348.index
+14526675.index
+2173098141.index
+412059943.index
+1589654450.index
+3351863816.index
